@@ -1,4 +1,5 @@
 # Check whether the entered number is prime or not.
+# prime or not
 
 num = int(input("Enter a number: "))
 
