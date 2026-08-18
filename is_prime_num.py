@@ -1,7 +1,7 @@
 # is_prime_num.py
 # Check whether the entered number is prime or not.
 
-num = int(input("Enter number: "))
+num = int(input("Enter a num: "))
 
 if num <= 1:
     print(f"{num} is not a prime number.")
