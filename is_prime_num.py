@@ -1,4 +1,3 @@
-# is_prime_num.py
 # Check whether the entered number is prime or not.
 
 num = int(input("Enter a num: "))
